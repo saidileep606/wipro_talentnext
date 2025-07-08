@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\samyu\OneDrive\Desktop\WIPRO_TALENTNEXT\.metadata\.plugins\org.eclipse.jdt.core
+1744916972.index
+1865797976.index
+3803894794.index
